@@ -1,0 +1,3 @@
+[submodule "Day01/weather-dashboard"]
+	path = Day01/weather-dashboard
+	url = https://github.com/moostafasal/weather-dashboard.git
