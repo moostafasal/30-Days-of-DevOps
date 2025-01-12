@@ -68,9 +68,11 @@ Create an IAM Role for Lambda with the following policy attached (save this poli
 
 ### Step 4: Schedule Weekly Execution with EventBridge
 
-1. Open the EventBridge console.
-2. Create a new rule with the following settings:
-   - **Event Source**: Schedule
-   - **Schedule Expression**: `rate(7 days)`
-3. Set the target to the Lambda function.
+
+
+
+## Architecture Diagram
+
+![Architecture Diagram](../architecture_diagram.png)
+
 
