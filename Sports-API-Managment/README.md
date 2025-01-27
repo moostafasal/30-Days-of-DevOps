@@ -5,7 +5,7 @@ Welcome to the **NFL Schedule API**! 🏈 This project provides real-time NFL ga
 ---
 
 ## 🌟 Overview
-
+![NBA Data Lake](ECS.gif)
 The NFL Schedule API is a cloud-native service designed to fetch and deliver NFL game schedules in real-time. It leverages Python, Flask, and various AWS services to ensure smooth operation and scalability.
 
 Key features:
