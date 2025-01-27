@@ -32,7 +32,7 @@ The project uses the following AWS services:
 
 
 
-
+```
 # Setup Instructions
 
 ## 1. Create a SportsData.io API Key
